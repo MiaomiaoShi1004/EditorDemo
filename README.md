@@ -8,7 +8,7 @@ This is a collaborative online text editor built with **React**, **Node.js**, **
 
 ### 1. Clone the project
 ```bash
-git clone xxxx
+git clone [xxxx](https://github.com/MiaomiaoShi1004/EditorDemo)
 cd EditorDemo
 ```
 
